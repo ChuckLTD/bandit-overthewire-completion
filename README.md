@@ -1,8 +1,3 @@
-# bandit-overthewire-completion
-Overthewire Bandit
-
-# OverTheWire: Bandit (Level 0 – 33)
-
 ## 🎯 Summary
 
 Completed all 34 levels of the Bandit wargame on OverTheWire, which teaches Linux and cybersecurity fundamentals through hands-on challenges.
